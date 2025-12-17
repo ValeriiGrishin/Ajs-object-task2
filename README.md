@@ -2,8 +2,8 @@
 
 ## Задача: Destructuring - извлечение специальных атак
 
-[![Tests](https://github.com/ValeriiGrishin/Ajs-object-task1/actions/workflows/ci.yml/badge.svg)](https://github.com/ValeriiGrishin/Ajs-object-task2/actions)
-[![Coverage Status](https://valeriigrishin.github.io/Ajs-object-task1/badges/coverage.svg)](https://github.com/ValeriiGrishin/Ajs-object-task2/actions)
+[![Tests](https://github.com/ValeriiGrishin/Ajs-object-task2/actions/workflows/ci.yml/badge.svg)](https://github.com/ValeriiGrishin/Ajs-object-task2/actions)
+[![Coverage Status](https://valeriigrishin.github.io/Ajs-object-task2/badges/coverage.svg)](https://github.com/ValeriiGrishin/Ajs-object-task2/actions)
 
 ## Описание задания:
 
