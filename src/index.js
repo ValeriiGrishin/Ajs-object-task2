@@ -1,0 +1,1 @@
+console.log('Проект для задачи 2: extractSpecialAttacks');
